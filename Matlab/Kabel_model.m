@@ -15,7 +15,7 @@ Xdist = 1; % [m] distance to drone in x axis
 cableWeight = cableWeightPrMeter*cableLength
 
 % A cable follows cosh form, cartenary
-x=-4:0.1:4;
+x=0:0.1:9;
 
 a=1;
-plot(x,a*cosh((x)/a))
+plot(x,a*cosh((x-4)/a))
