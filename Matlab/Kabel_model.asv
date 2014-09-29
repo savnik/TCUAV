@@ -47,8 +47,6 @@ Q = P_loss_total; % [W] heat energy
 T1 = 20+273.15; % [K] start temp in kelvin
 C = 
 
-% Specifik heat capasity 
-
 
 
 
