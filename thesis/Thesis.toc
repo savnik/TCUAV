@@ -11,21 +11,24 @@
 \contentsline {chapter}{\chapternumberline {2}Analysis}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}Background}{3}{section.2.1}
 \contentsline {subsection}{PTD - Platform for Tethered Drones}{3}{section*.10}
-\contentsline {subsection}{Design krav/kravspecifikation}{3}{section*.11}
-\contentsline {subsection}{Løsningsforslag}{3}{section*.12}
-\contentsline {chapter}{\chapternumberline {3}Long chapter title with π, very long title}{5}{chapter.3}
-\contentsline {chapter}{\chapternumberline {4}Heading on Level\xspace 0 (chapter)}{9}{chapter.4}
-\contentsline {section}{\numberline {4.1}Heading on Level\xspace 1 (section)}{9}{section.4.1}
-\contentsline {subsection}{Heading on Level\xspace 2 (subsection)}{9}{section*.13}
-\contentsline {subsubsection}{Heading on Level\xspace 3 (subsubsection)}{10}{section*.14}
-\contentsline {paragraph}{Heading on Level\xspace 4 (paragraph)}{10}{section*.15}
-\contentsline {section}{\numberline {4.2}Lists}{10}{section.4.2}
-\contentsline {subsection}{Example for list\xspace (itemize)}{10}{section*.16}
-\contentsline {subsubsection}{Example for list\xspace (4*itemize)}{10}{section*.17}
-\contentsline {subsection}{Example for list\xspace (enumerate)}{11}{section*.18}
-\contentsline {subsubsection}{Example for list\xspace (4*enumerate)}{11}{section*.19}
-\contentsline {subsection}{Example for list\xspace (description)}{11}{section*.20}
-\contentsline {subsubsection}{Example for list\xspace (4*description)}{11}{section*.21}
-\contentsline {chapter}{\chapternumberline {5}Conclusion}{13}{chapter.5}
-\contentsline {appendix}{\chapternumberline {A}An Appendix}{15}{appendix.A}
-\contentsline {chapter}{Bibliography}{17}{section*.22}
+\contentsline {subsection}{Physical model}{3}{section*.11}
+\contentsline {subsubsection}{Electrical loss}{3}{section*.12}
+\contentsline {subsection}{Design krav/kravspecifikation}{4}{section*.13}
+\contentsline {subsection}{Løsningsforslag}{4}{section*.14}
+\contentsline {chapter}{\chapternumberline {3}Prototype}{5}{chapter.3}
+\contentsline {chapter}{\chapternumberline {4}Long chapter title with π, very long title}{7}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}Heading on Level\xspace 0 (chapter)}{11}{chapter.5}
+\contentsline {section}{\numberline {5.1}Heading on Level\xspace 1 (section)}{11}{section.5.1}
+\contentsline {subsection}{Heading on Level\xspace 2 (subsection)}{11}{section*.15}
+\contentsline {subsubsection}{Heading on Level\xspace 3 (subsubsection)}{12}{section*.16}
+\contentsline {paragraph}{Heading on Level\xspace 4 (paragraph)}{12}{section*.17}
+\contentsline {section}{\numberline {5.2}Lists}{12}{section.5.2}
+\contentsline {subsection}{Example for list\xspace (itemize)}{12}{section*.18}
+\contentsline {subsubsection}{Example for list\xspace (4*itemize)}{12}{section*.19}
+\contentsline {subsection}{Example for list\xspace (enumerate)}{13}{section*.20}
+\contentsline {subsubsection}{Example for list\xspace (4*enumerate)}{13}{section*.21}
+\contentsline {subsection}{Example for list\xspace (description)}{13}{section*.22}
+\contentsline {subsubsection}{Example for list\xspace (4*description)}{13}{section*.23}
+\contentsline {chapter}{\chapternumberline {6}Conclusion}{15}{chapter.6}
+\contentsline {appendix}{\chapternumberline {A}An Appendix}{17}{appendix.A}
+\contentsline {chapter}{Bibliography}{19}{section*.24}

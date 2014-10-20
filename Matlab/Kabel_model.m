@@ -43,9 +43,15 @@ P_loss = I^2*R; % [W] varme tab pr. m.
 P_loss_total = 2*P_loss*l; % [W] varme tab total
 
 %% Temperatur
-Q = P_loss_total; % [W] heat energy
 T1 = 20+273.15; % [K] start temp in kelvin
-C = 
+c = 0.385; % Varmefylde for kobber [kJ*Kg^-1*T^-1]
+rho_cobber = 8.96*1000; % densitet [g/cm^3 -> kg/m^3]
+m = A*l*rho_cobber*2; % kablets masse total [kg]
+t = 1; % time [s]
+Q = P_loss_total*t; % P[W] -> J[W/s]
+
+T2 = Q/(m*c)+T1;
+T_delta = T2-T1
 
 % Specifik heat capasity 
 

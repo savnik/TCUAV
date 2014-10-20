@@ -9,7 +9,46 @@ Det ønskes at udvikle en platform for styring af tøjret droner - PTD Platform 
 
 Præsentation over-all-system
 
+\subsection{Physical model}
+
+\subsubsection{Electrical loss}
+We assume that UAV requires 500W when using maksimal thrust. To be on the safe side we put in a tolerance on 10\%, ending up with supplying the UAV with 550W. \\
+The loss in the cable can now be calculated as following.\\ 
+$P$ is the power in Watt, $U$ is the voltage in Volt, $l$ is the distance in meter, $\rho$ is the eletrical resistivity in $\Omega \cdot m$ and $A$ is the cross sectional area in $m^2$.
+
+The current $I[A]$ through the wires is given by the power over the voltage.
+\begin{equation}
+I = P/U
+\end{equation}
+
+The resistance $R[\Omega]$ per unit length is to be determined by the electrical resistivity $\rho [\Omega \cdot m]$ over the conductors cross sectional area.
+
+\begin{equation}
+R = \frac{\rho}{A}
+\end{equation}
+
+The voltage drop $U_{drop}[V]$ per unit length is to be determined by  the current times the resistance.
+
+\begin{equation}
+U_{drop} = I \cdot R
+\end{equation}
+
+The cable loss $P_{loss}[W]$ per unit length is now given by
+\begin{equation}
+P_{loss} = I^2 \cdot R
+\end{equation}
+
+
+
+
+
 \subsection{Design krav/kravspecifikation}
+\begin{itemize}
+\item Sypply the UAV with 120VDC and 500W
+\item The weight of the cable must not be greater than the lifting cabability.
+\item 
+\end{itemize}
+
 
 \subsection{Løsningsforslag}
 
